@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://salapakalab.github.io/sitemap.xml
+Sitemap: https://salapakalab.github.io/blog//sitemap.xml
